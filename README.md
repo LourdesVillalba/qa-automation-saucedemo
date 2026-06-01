@@ -22,4 +22,4 @@ Los tests fueron divididos en módulos independientes para garantizar su escalab
 
 Durante las pruebas exploratorias y la revisión de casos de prueba con el usuario `problem_user`, se detectaron y reportaron 3 bugs críticos que afectan el inventario y el proceso de checkout.
 
-🔗 **[Ver tablero de Trello con los reportes de bugs detallados]([https://trello.com/b/24eK7sC9/saucedemo-actividad])**
+🔗 **https://trello.com/b/24eK7sC9/saucedemo-actividad**
